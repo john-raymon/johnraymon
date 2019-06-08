@@ -132,9 +132,7 @@ class App extends Component {
 									</span>
 
 									I now have obtained over a year of React.js experience; I have combined React with Redux. I have learned the power of methods Redux offers and the ease it brings when combining it with middewares such as Redux-Thunk.
-									I used to get headaches last year trying to handle asynchronous calls with just React's Component State API. However,
-									here is a link to my <a href="https://drive.google.com/file/d/19z-SLBvBlx9xE52WxSpjZOZVzHV6afG9/view?usp=sharing">updated resume.</a>
-
+									I used to get headaches last year trying to handle asynchronous calls with just React's Component State API.
 								</p>
 
 								<p id="update">
