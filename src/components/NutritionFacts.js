@@ -75,6 +75,27 @@ class NutritionFacts extends Component {
 							<div className="nutrition-inner-type-container">
 								<p>
 									<span className="type-name-span">
+										HTML/CSS
+									</span>
+									<span className="type-percentage-span">
+										300%
+									</span>
+								</p>
+							</div>
+							<div className="nutrition-inner-type-container">
+								<p>
+									<span className="type-name-span">
+										SASS (with BEM)
+									</span>
+									<span className="type-percentage-span">
+										300%
+									</span>
+								</p>
+							</div>
+							<div className="thinline-1"></div>
+							<div className="nutrition-inner-type-container">
+								<p>
+									<span className="type-name-span">
 										React JS
 									</span>
 									<span className="type-percentage-span">
@@ -86,7 +107,40 @@ class NutritionFacts extends Component {
 							<div className="nutrition-inner-type-container">
 								<p>
 									<span className="type-name-span">
-										Html/CSS
+										Redux
+									</span>
+									<span className="type-percentage-span">
+										300%
+									</span>
+								</p>
+							</div>
+							<div className="thinline-1"></div>
+							<div className="nutrition-inner-type-container">
+								<p>
+									<span className="type-name-span">
+										Node.js
+									</span>
+									<span className="type-percentage-span">
+										300%
+									</span>
+								</p>
+							</div>
+							<div className="thinline-1"></div>
+							<div className="nutrition-inner-type-container">
+								<p>
+									<span className="type-name-span">
+										Express.js
+									</span>
+									<span className="type-percentage-span">
+										300%
+									</span>
+								</p>
+							</div>
+							<div className="thinline-1"></div>
+							<div className="nutrition-inner-type-container">
+								<p>
+									<span className="type-name-span">
+										Javascript ES2015 (ES6)
 									</span>
 									<span className="type-percentage-span">
 										300%
@@ -108,12 +162,22 @@ class NutritionFacts extends Component {
 							</span>
 						</p>
 						<div className="nutrition-inner-type-wrapper">
-							
 							<div className="nutrition-inner-type-container">
-							<div className="thinline-1"></div>
+								<div className="thinline-1"></div>
 								<p>
 									<span className="type-name-span">
 										Photoshop CC
+									</span>
+									<span className="type-percentage-span">
+										300%
+									</span>
+								</p>
+							</div>
+							<div className="nutrition-inner-type-container">
+								<div className="thinline-1"></div>
+								<p>
+									<span className="type-name-span">
+										Sketch
 									</span>
 									<span className="type-percentage-span">
 										300%
@@ -134,7 +198,7 @@ class NutritionFacts extends Component {
 
 
 
-				</div> 
+				</div>
 			</div>
 
 		)
