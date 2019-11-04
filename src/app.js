@@ -118,30 +118,12 @@ class App extends Component {
 							<div className="about-text-container">
 								<p>
 									<span className="about-a-note">
-										A NOTE <span className='side-text-title'>(2017, <a href="#update">update below</a>)</span>
+										As of lately...
 									</span>
-									Welcome to my portfolio, my personal website, my work of art. My name is John Raymon, and I'm a creative web designer/developer. Whether you ended up here by coincidence or were sent by a job application/email/business card of mine, I hope I can satisfy you and ultimately impress you. Although the site is fairly static it was fully developed using React JS, a library I’ve been heavily learning at the time of writing this. Above, there is a nutrition label displaying my skills sets I currently obtain, which I plan to make bigger as I perpetually update it as I learn more.
-
-
-
+									My name is John Ray, born in Bronx, New York. I am a self-taught web developer, write JavaScript all the time, from front-end frameworks to web application frameworks in Node such as Express. Currently love my job as the front-end engineer at https://Commercejs.com building the future of e-commerce driven by developers and merchants together. Previously worked as a Software Engineer at https://Sanctuary.Computer in Chinatown, New York on Browery. On the side I'm learning Linux, reading Nand to Tetris, teaching myself CS—if not enrolled in undergraduate program before 2019 ends—, building GetVippy.com, and raising my beautiful daughter Nova Rae.
+									- if the form below does not work feel free to reach out at John@JohnRaymon.com
 								</p>
 
-								<p>
-									<span className="about-a-note">
-									From: 2018
-									</span>
-
-									I now have obtained over a year of React.js experience; I have combined React with Redux. I have learned the power of methods Redux offers and the ease it brings when combining it with middewares such as Redux-Thunk.
-									I used to get headaches last year trying to handle asynchronous calls with just React's Component State API.
-								</p>
-
-								<p id="update">
-									<span className="about-a-note">
-									An Update: 2019
-									</span>
-The past year has been an amazing journey full of opportunity and intellectual growth. I landed my first full-time software engineer position at <a href="http://sanctuary.computer">Sanctuary Computer</a>. When I first began self-teaching myself how to program in 2014 at 15 years old, using PHP/Jquery stack (My naive young self did not use any Web framework just plain PHP 🤦🏾‍), all I did was dream of being able to land a real developer position, especially in New York City. Being at <a href="http://sanctuary.computer">Sanctuary Computer</a> exposed me to some brilliant creative developer minds. Working on <a href="http://madeofmillions.com">Made of Millions</a>, a Rails/Ruby with ERB view templates being rendered, gave me a perspective into Ruby on Rails I've always been curious about. React is still in my utility belt though, however, I've been heavily into learning Vue.js as of lately, I'll be back to provide an update on that! I'm also working on developing the MVP for my start-up <a href="http://GetVippy.com">GetVippy.com</a>, it's a Node/Express/MongoDB/Mongoose/React application. That's pretty much it so far.
-									Here is a link to my <a href="https://drive.google.com/file/d/19z-SLBvBlx9xE52WxSpjZOZVzHV6afG9/view?usp=sharing">updated resume.</a>.
-								</p>
 								<p>
 									Github: <a href="https://github.com/john-raymon">https://github.com/john-raymon</a>
 									<br/>
