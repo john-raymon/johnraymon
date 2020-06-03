@@ -120,7 +120,7 @@ class App extends Component {
 									<span className="about-a-note">
 										As of lately...
 									</span>
-									My name is John Ray, born in Bronx, New York. I am a self-taught web developer, write JavaScript all the time, from front-end frameworks to web application frameworks in Node such as Express. Currently love my job as the front-end engineer at https://Commercejs.com building the future of e-commerce driven by developers and merchants together. Previously worked as a Software Engineer at https://Sanctuary.Computer in Chinatown, New York on Browery. On the side I'm learning Linux, reading Nand to Tetris, teaching myself CS—if not enrolled in undergraduate program before 2019 ends—, building GetVippy.com, and raising my beautiful daughter Nova Rae.
+									My name is John Ray, born in Bronx, New York. I am a self-taught web developer, write JavaScript all the time, from front-end frameworks to web application frameworks in Node such as Express. Currently love my job as the front-end engineer at https://Commercejs.com building the future of e-commerce driven by developers and merchants together. Previously worked as a Software Engineer at https://Sanctuary.Computer in Chinatown, New York on Bowery. On the side I'm learning Linux, reading Nand to Tetris, teaching myself CS—if not enrolled in undergraduate program before 2019 ends—, building GetVippy.com, and raising my beautiful daughter Nova Rae.
 									- if the form below does not work feel free to reach out at John@JohnRaymon.com
 								</p>
 
