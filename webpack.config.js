@@ -15,8 +15,12 @@ module.exports = () => {
 		entry: {
 			app: "./src/app.js"
 		},
+		devServer: {
+			contentBase: "./build",
+			hot: true
+		},
 		output: {
-			filename: "build/bundle.js",
+			filename: "build/index.js",
 			sourceMapFilename: "build/bundle.map"
 		},
 		devtool: "#source-map",
