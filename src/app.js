@@ -139,7 +139,7 @@ class App extends Component {
                   If the form below does not work feel free to reach out at John@JohnRaymon.com.
                   <br></br>
                   <br></br>
-                  P.S. The graphic art in the hero was designed by me in 2015 is a purchasable NFT (<a href="https://rarible.com/token/0x60f80121c31a0d46b5279700f9df786054aa5ee5:168609?tab=details">https://rarible.com/token/0x60f80121c31a0d46b5279700f9df786054aa5ee5:168609</a>). Also, the "Nutrition Facts" was created back in 2017, when I coded up this one-page site using React.js, please don't judge me for the bad CSS used and for choosing React.js for a one-page site, <strong>as the decisions were made early in my career 😂</strong>.
+                  P.S. The graphic art in the hero was designed by me in 2015 and is a purchasable NFT; if interested you can bid on it on Rarible: <a href="https://rarible.com/token/0x60f80121c31a0d46b5279700f9df786054aa5ee5:168609?tab=details">https://rarible.com/token/0x60f80121c31a0d46b5279700f9df786054aa5ee5:168609</a>. Also, the "Nutrition Facts" was created back in 2017, when I coded up this one-page site using React.js, please don't judge me for the bad CSS used and for choosing React.js for a one-page site, <strong>as the decisions were made early in my career 😂</strong>.
                 </p>
 
 
